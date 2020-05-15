@@ -9,6 +9,7 @@ setup(name='nodeconfeu_watch',
       license='Apache License 2.0',
       packages=['nodeconfeu_watch'],
       install_requires=[
+          'altair',
           'numpy',
           'pandas',
           'seaborn',
